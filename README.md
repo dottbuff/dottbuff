@@ -4,8 +4,8 @@
 
 | Frontend       | Backend           | Tools               |
 | -------------- | ----------------- | ------------------- |
-| JavaScript     | PHP (Symfony)     | Figma               |
-| Vue.js         | MySQL / MariaDB   | VS Code             |
+| JavaScript     | PHP (Symfony 6)   | Figma               |
+| Next.js        | MySQL / MariaDB   | VS Code             |
 | HTML           |                   | IPS Community Suite |
 | CSS            |                   | Adobe Photoshop     |
 | UX / UI        |                   | Adobe Illustrator   |

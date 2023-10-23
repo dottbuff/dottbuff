@@ -1,5 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?&includeNames=true&names=html,css,js,json,php,mysql)](https://github.com/dottbuff)
-
 ## What am I using?:
 
 | Frontend       | Backend           | Tools               |
